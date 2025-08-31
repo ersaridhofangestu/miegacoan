@@ -32,7 +32,7 @@ Ini adalah proyek redesign web app pribadi untuk **Miegacoan**, merek kuliner ya
 ### 🚀 Lihat Aplikasinya
 
 Anda dapat melihat versi live dari proyek ini di tautan berikut:
-[https://miegacoan.vercel.app](https://miegacoan.vercel.app)
+https://miegacoan.vercel.app
 
 ---
 
